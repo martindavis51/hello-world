@@ -1,2 +1,3 @@
 # hello-world
-Initial tutorialrepository
+Initial tutorial repository
+Author: Martin Davis, old fart
